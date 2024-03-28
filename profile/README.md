@@ -14,7 +14,7 @@ To bridge the knowledge gap and empower Iran and Iranians to actively participat
 
 * **Share Valuable Content:** We create informative articles, tutorials, and guides to equip you with the knowledge you need to navigate the world of Blockchain and Cryptocurrencies.
 * **Contribute to Open Source:** We actively share useful code on GitHub to collaborate with developers and advance the ecosystem.
-* **Build a Community:** We foster a welcoming space for interaction, learning, and discussion. Stay connected with us on our website (arzdigital.com) and social media channels.
+* **Build a Community:** We foster a welcoming space for interaction, learning, and discussion. Stay connected with us on our website (<https://arzdigital.com>) and social media channels.
 
 ## Getting Involved
 
